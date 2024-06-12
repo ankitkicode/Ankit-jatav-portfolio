@@ -475,14 +475,14 @@ body {
     /* background-color: red; */
 }
 .p8box .p8inner h2{
-    font-size: 8.5vw;
+    font-size: 5.5vw;
     font-weight: 400;
     /* margin-right: 7vw; */
     width: 85%;
     white-space: nowrap;
 }
 .p8box .p8inner h6{
-    font-size: 1.5vw;
+    font-size: 1.2vw;
     font-weight: 400;
 }
 .p8text{

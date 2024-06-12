@@ -27,7 +27,7 @@
         height: 10vh;
     }
     #page1 .box h1{
-        font-size: 4.5vh;
+        font-size: 4.2vh;
         white-space: nowrap;
     }
     #page2{
@@ -64,7 +64,7 @@
         /* background-color: red; */
     }
     .wbox .std h1{
-        font-size: 35px;
+        font-size: 29px;
     }
     .wbox .std h4{
         font-size: 15px;
@@ -161,7 +161,8 @@
     color: orange;
 }
 .p8box .p8inner h2{
-    font-size: 35px;
+    margin-top: 5px;
+    font-size: 25px;
 }
 .p8text{
     height: 30vh;
